@@ -3,7 +3,7 @@ format short g
 
 %% Prepare the data
 N = 1000;
-splitRatio = 0.1;
+splitRatio = 0.8;
 
 w_ = rand(3, 1);
 X = randi([-N N], N, 2);
