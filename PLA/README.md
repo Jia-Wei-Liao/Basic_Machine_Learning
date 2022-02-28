@@ -1,5 +1,5 @@
 # Perceptron_Learning_Algorithm
-This program display the Perceptron Learning Algorithm (PLA) and visualize the result. It work on MATLAB2020a.
+This program display the Perceptron Learning Algorithm (PLA) and visualize the result. It works on MATLAB2021b.
 
 # Brief introduction of PLA
 The problem is a binary classification for 2-dimensional linear separable dataset. Given the training data, Our goal is to find the decision boundary.
